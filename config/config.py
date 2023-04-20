@@ -29,7 +29,7 @@ SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "30"))
 #•••••••••••••••••••••••• Mongodb Url Stuff & Loggroupid •••••••••••
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001956961601")) 
 
-MONGODB_URL = getenv("MONGODB_URL", "mongodb+srv://R:R@cluster0.t1nml.mongodb.net/?retryWrites=true&w=majority")
+MONGODB_URL = getenv("MONGODB_URL", "mongodb+srv://lihex77572:lihex77572@cluster0.46wdzcn.mongodb.net/test")
 #________________________ Updates 🍃 & Music bot name________________
 NETWORK = getenv("NETWORK", "Telugucodersupdates")
 GROUP = getenv("GROUP", "tgshadow_fighters")
